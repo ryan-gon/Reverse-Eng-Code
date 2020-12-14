@@ -1,5 +1,9 @@
 # Reverse-Eng-Code
 
+Links
+Github Link - https://github.com/ryan-gon/Reverse-Eng-Code/blob/master/README.md
+GoogleDoc Link - 
+
 
 Sequelize Reverse Engineering Code
 Overview and Purpose
@@ -28,7 +32,15 @@ Step by Steps Code Guide
 
 
 Technologies Used
-
+ npm install 
+ passport
+ express 
+ MySql - sequelize
+ CSS 
+ HTML 
+ .js
+ 
+ 
 express
 sequelize
 passport
@@ -38,8 +50,8 @@ npm install
 mysql
 CSS
 HTML
-bcrypt js
+js
 
 Links
-Github Link - 
+Github Link - https://github.com/ryan-gon/Reverse-Eng-Code/blob/master/README.md
 GoogleDoc Link - 
