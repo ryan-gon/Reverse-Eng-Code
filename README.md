@@ -6,7 +6,9 @@ GoogleDoc Link -
 
 
 Sequelize Reverse Engineering Code
+
 Overview and Purpose
+
 When joining a new team, you will be expected to inspect a lot of code that you have never seen before. Rather than having a team member explain every line for you, you will dissect the code by yourself, saving any questions for a member of your team.
 This tutorial is a walkthrough for developers to assist in understanding the code.
 This code uses npm modules ‘express’, ‘passport’, ‘fs’, ‘path’ to help users create an account, login into that account and logout storing all data in a mysql database.
@@ -32,26 +34,15 @@ Step by Steps Code Guide
 
 
 Technologies Used
+
  npm install 
  passport
  express 
  MySql - sequelize
+ fs
+ path
  CSS 
  HTML 
  .js
  
  
-express
-sequelize
-passport
-fs
-path
-npm install
-mysql
-CSS
-HTML
-js
-
-Links
-Github Link - https://github.com/ryan-gon/Reverse-Eng-Code/blob/master/README.md
-GoogleDoc Link - 
